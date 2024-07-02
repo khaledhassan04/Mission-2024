@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    font-family: "Poppins", sans-serif;
+}
+.top-banner{
+    margin-top: 100px;
+    background-image: url(images/shapes/shape-6.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.color-text{
+    color: #FFAD5A ;
+}
+.flex-two{
+    display: flex;
+}
+.mission-content{
+    width: 45%;
+    margin-left: 150px;
+}
+.mission-content h1{
+    font-size: 64px;
+    border-left: 10px solid rgb(154, 76, 226);
+    border-radius: 10px;
+    margin-bottom: -20px;
+}
+.mission-content p{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.btn{
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 12px 36px;
+    font-weight: 600;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px rgb(222, 144, 253);
+
+}
+.mission-image{
+    width: 40%;
+    margin-left: 250px;
+}
+.mission-image img{
+    width: 400px;
+}
+
+
+.main-heading{
+    text-align: center;
+    font-size: 48px;
+    margin-top: 100px;
+    color: rgb(61, 36, 102);
+}
+.flex-three{
+    display: flex;
+}
+.mission-item{
+    width: 30%;
+    margin-left: 150px;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    border: 1px solid rgba(137, 43, 226, 0.171);
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.mission-item img{
+    width: 120px;
+}
+.one{
+    background-color: #4f9da63d;
+}
+.two{
+    background-color: #ff59592c ;
+}
+.three{
+    background-color: #FFF4D6 ;
+    margin-right: 150px;
+}
