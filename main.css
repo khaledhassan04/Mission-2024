@@ -83,3 +83,36 @@
     background-color: #FFF4D6 ;
     margin-right: 150px;
 }
+
+.develop{
+    width: 45%;
+    margin-left: 150px;
+}
+
+.develop img{
+    width: 400px;
+}
+.dev-text{
+    margin-left: 100px;
+    margin-right: 150px;
+}
+.dev-text h2{
+    font-size: 36px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.dev-text p{
+    margin-bottom: 60px;
+}
+
+.projects{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.projects-text{
+    width: 70%;
+}
+.projects-image img{
+    width: 400px;
+    margin-right: 150px;
+}
